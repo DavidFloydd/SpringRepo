@@ -1,0 +1,12 @@
+package com.thehit.domain;
+
+import com.thehit.interfaces.Songwriter;
+
+public class SongwriterImpl implements Songwriter{
+
+	public void compose(Song song) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
